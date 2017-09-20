@@ -66,7 +66,7 @@ int count(list_t wagons, int start_wagon)
 	int i;
 
 	// the idea is to have only one ptr
-	// TODO: rand() first wagon
+	// i.e. only one person in the train
 	list_t w = wagons;
 
 	// go to the start wagon
