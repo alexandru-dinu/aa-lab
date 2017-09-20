@@ -12,12 +12,13 @@ typedef struct _node {
 	struct _node *prev;
 } node_t, *list_t;
 
-list_t cons(int value, list_t next, list_t prev)
+list_t cons(int value, list_t prev, list_t next)
 {
 	list_t node = calloc(1, sizeof(node_t));
+
 	node->value = value;
-	node->next = next;
 	node->prev = prev;
+	node->next = next;
 
 	return node;
 }
@@ -33,7 +34,7 @@ list_t make_railway()
 	first = wagons;
 
 	for (i = len(states) - 2; i >= 0; i--) {
-		list_t aux = cons(states[i], NULL, wagons);
+		list_t aux = cons(states[i], wagons, NULL);
 		wagons->next = aux;
 		wagons = aux;
 	}
