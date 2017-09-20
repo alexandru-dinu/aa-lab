@@ -1,3 +1,16 @@
+/*
+Railway
+
+Assume you have a circular railway and
+a train whose wagons are connected in a circular fashion.
+Wagons do not have windows and are identical.
+In each wagon, lights may be switched on or off,
+and you can switch the lights on or off yourself.
+You have no prior knowledge on the state of each switch.
+Find a procedure to count the number of wagons,
+by travelling through each wagon and operating the light switches.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
