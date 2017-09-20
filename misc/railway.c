@@ -4,7 +4,7 @@
 
 #define len(X) (sizeof(X) / sizeof(X[0]))
 
-int const states[] = {0, 0, 0, 0, 0, 0, 0, 0};
+int const states[] = {0, 1, 1, 0};
 
 typedef struct _node {
 	int value;
