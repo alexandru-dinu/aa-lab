@@ -1,4 +1,4 @@
-A prime gap g<sub>n</sub> is defined as the difference of two consecutive primes: g<sub>n</sub> = p<sub>n+1</sub> - p<sub>n</sub>. The `primeGap` problem asks if its input, `x`, is a prime gap (i.e. there exists two consecutive prime numbers with distance `x`)
+A prime gap g<sub>n</sub> is defined as the difference between two consecutive primes: g<sub>n</sub> = p<sub>n+1</sub> - p<sub>n</sub>. The `primeGap` problem asks if its input, `x`, is a prime gap (i.e. there exists two consecutive prime numbers with distance `x`)
 
 It's easy to write a piece of code (Turing Machine) that always returns `True` if the input **is** a prime gap:
 
