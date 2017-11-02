@@ -16,3 +16,4 @@ Source files and useful resources.
 - [What are recursive and recursively enumerable sets?](https://stackoverflow.com/questions/920074/what-are-recursively-enumerable-sets)
 - [Why is the Halting Problem important?](https://cs.stackexchange.com/questions/32845/why-really-is-the-halting-problem-so-important)
 - [Reducibility: A Technique for Proving Undecidability](https://www.youtube.com/watch?v=Wt00XVmyIpY)
+- [The asymptotic cheat sheet](http://web.mit.edu/broder/Public/asymptotics-cheatsheet.pdf)
