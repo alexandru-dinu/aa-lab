@@ -9,6 +9,10 @@ Source files and useful resources.
 
 **Exercises**
 
+- [Recurrences 1](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/99-recurrences.pdf)
+- [Recurrences 2](https://courses.engr.illinois.edu/cs173/sp2011/Homework/hw9-solutions.pdf)
+- [Recurrence trees and the master method](https://www.cs.cornell.edu/courses/cs3110/2012sp/lectures/lec20-master/lec20.html)
+- [Solving recurrences](http://web.stanford.edu/class/archive/cs/cs161/cs161.1166/lectures/lecture3.pdf)
 
 **References**
 
