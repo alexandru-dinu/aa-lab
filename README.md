@@ -4,8 +4,8 @@ Source files and useful resources.
 
 **Books**
 
-- [Elements of the Theory of Computation, 2nd Edition - Harry R. Lewis, Christos H. Papadimitriou](https://goo.gl/SqZ54w)
-- [Introduction to the Theory of Computation, 3rd Edition - Michael Sipser](https://goo.gl/MdVvYg)
+- [Elements of the Theory of Computation, 2nd Edition - Harry R. Lewis, Christos H. Papadimitriou](https://www.u-cursos.cl/ingenieria/2010/2/CC3102/1/material_docente/bajar?id_material=322214)
+- [Introduction to the Theory of Computation, 3rd Edition - Michael Sipser](https://theswissbay.ch/pdf/Book/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf)
 
 **Exercises**
 
