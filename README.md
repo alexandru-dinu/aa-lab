@@ -2,6 +2,11 @@
 
 Source files and useful resources.
 
+**Notebooks**
+
+- [Turing Reductions](https://nbviewer.jupyter.org/github/alexandru-dinu/aa-lab/blob/master/notebooks/Turing-reductions.ipynb)
+- [Prime Gap Problem](https://nbviewer.jupyter.org/github/alexandru-dinu/aa-lab/blob/master/notebooks/prime-gap-problem.ipynb)
+
 **Books**
 
 - [Elements of the Theory of Computation, 2nd Edition - Harry R. Lewis, Christos H. Papadimitriou](https://www.u-cursos.cl/ingenieria/2010/2/CC3102/1/material_docente/bajar?id_material=322214)
